@@ -1,6 +1,6 @@
 <script setup lang="ts">
 
-const props = defineProps<{
+defineProps<{
   modelValue: string | number;
   label?: string;
   type?: string;
