@@ -1,0 +1,79 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "retry": "Try again",
+    "delete": "Delete",
+    "edit": "Edit",
+    "unknown": "Unknown"
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "badge": "Explore the best stories",
+    "hero_title": "Where Ideas Come Alive",
+    "hero_subtitle": "Discover stories, thinking, and expertise from writers on any topic.",
+    "explore_btn": "Explore Blog",
+    "latest_posts": "Latest Posts",
+    "view_all": "View all",
+    "no_posts": "No posts yet. Be the first to write!",
+    "login_prompt": "Sign in to explore all posts and interact with the community."
+  },
+  "blog": {
+    "listing_subtitle": "Discover the latest thoughts, tutorials, and stories from our community.",
+    "search_placeholder": "Search articles...",
+    "no_posts": "No posts found",
+    "adjust_search": "Try adjusting your search query.",
+    "comments": "Comments",
+    "add_comment": "Write a comment...",
+    "send": "Send",
+    "no_comments": "No comments yet. Be the first to comment!",
+    "link_copied": "Link copied!"
+  },
+  "auth": {
+    "welcome_back": "Welcome Back",
+    "login_subtitle": "Sign in to your account to continue",
+    "email": "Email Address",
+    "password": "Password",
+    "login_failed": "Invalid email or password",
+    "no_account": "Don't have an account?",
+    "create_now": "Create one now",
+    "create_account": "Create Account",
+    "register_subtitle": "Join our community of writers and readers",
+    "full_name": "Full Name",
+    "register_failed": "Registration failed. Please try again.",
+    "has_account": "Already have an account?",
+    "sign_in": "Sign in"
+  },
+  "dashboard": {
+    "subtitle": "Manage your content and track performance.",
+    "create_post": "Create Post",
+    "total_posts": "Total Posts",
+    "total_likes": "Total Likes",
+    "welcome": "Welcome",
+    "my_posts": "My Posts",
+    "search_posts": "Search posts...",
+    "no_posts": "You haven't created any posts yet.",
+    "col_title": "Title",
+    "col_date": "Date",
+    "col_likes": "Likes",
+    "col_actions": "Actions",
+    "create_btn": "Create",
+    "save_btn": "Save Changes",
+    "edit_post": "Edit Post",
+    "field_title": "Title",
+    "field_content": "Content",
+    "field_content_placeholder": "Write your post content...",
+    "field_image": "Image (optional)",
+    "delete_confirm_title": "Delete Post",
+    "delete_confirm_msg": "Are you sure you want to delete this post? This action cannot be undone."
+  }
+}
