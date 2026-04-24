@@ -10,7 +10,6 @@ nixPkgs = [
   'php83Extensions.tokenizer',
   'php83Extensions.fileinfo',
   'php83Extensions.openssl',
-  'composer',
   'nodejs_20',
   'npm'
 ]
